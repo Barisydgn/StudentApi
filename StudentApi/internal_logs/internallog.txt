@@ -1,0 +1,473 @@
+2023-09-24 16:08:43.4859 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:08:43.5322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:08:43.5469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:08:43.5603 Info Configuration initialized.
+2023-09-24 16:10:08.4768 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:10:08.5046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:10:08.5215 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:10:08.5215 Info Configuration initialized.
+2023-09-24 16:11:14.5839 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:11:14.5948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:11:14.6045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:11:14.6045 Info Configuration initialized.
+2023-09-24 16:12:51.6503 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:12:51.6756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:12:51.6936 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:12:51.6936 Info Configuration initialized.
+2023-09-24 16:13:39.2797 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:13:39.3046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:13:39.3200 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:13:39.3200 Info Configuration initialized.
+2023-09-24 16:26:04.6937 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:26:04.7390 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:26:04.7555 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:26:04.7678 Info Configuration initialized.
+2023-09-24 16:50:19.9487 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:50:19.9755 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:50:19.9755 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:50:20.0013 Info Configuration initialized.
+2023-09-24 16:57:04.3606 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:57:04.3922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:57:04.4088 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:57:04.4211 Info Configuration initialized.
+2023-09-24 16:58:03.5066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-24 16:58:03.5368 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2023-09-24 16:58:03.5531 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\bin\Debug\net6.0\NLog.config
+2023-09-24 16:58:03.5531 Info Configuration initialized.
+2023-09-24 19:43:30.8359 Info Message Template Auto Format enabled
+2023-09-24 19:43:30.9703 Info Adding target FileTarget(Name=logfile)
+2023-09-24 19:43:31.0076 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:16:10.8868 Info Message Template Auto Format enabled
+2023-09-25 18:16:10.9777 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:16:11.0014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:17:00.9561 Info Message Template Auto Format enabled
+2023-09-25 18:17:01.0775 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:17:01.1180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:19:17.5431 Info Message Template Auto Format enabled
+2023-09-25 18:19:17.6444 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:19:17.6754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:20:02.0519 Info Message Template Auto Format enabled
+2023-09-25 18:20:02.2152 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:20:02.2425 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:20:30.1071 Info Message Template Auto Format enabled
+2023-09-25 18:20:30.2252 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:20:30.2689 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 18:22:45.9255 Info Message Template Auto Format enabled
+2023-09-25 18:22:46.0145 Info Adding target FileTarget(Name=logfile)
+2023-09-25 18:22:46.0627 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-25 19:47:46.7140 Info Message Template Auto Format enabled
+2023-09-25 19:47:46.8054 Info Adding target FileTarget(Name=logfile)
+2023-09-25 19:47:46.8279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:03:30.1937 Info Message Template Auto Format enabled
+2023-09-26 22:03:30.3436 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:03:30.3800 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:04:03.6000 Info Message Template Auto Format enabled
+2023-09-26 22:04:03.7905 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:04:03.8290 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:04:20.4481 Info Message Template Auto Format enabled
+2023-09-26 22:04:21.3442 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:04:21.6208 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:13:39.5392 Info Message Template Auto Format enabled
+2023-09-26 22:13:39.6822 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:13:39.7187 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:15:35.0930 Info Message Template Auto Format enabled
+2023-09-26 22:15:35.2693 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:15:35.3245 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:20:24.1219 Info Message Template Auto Format enabled
+2023-09-26 22:20:24.2624 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:20:24.3067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:22:55.5270 Info Message Template Auto Format enabled
+2023-09-26 22:22:55.5965 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:22:55.6270 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:23:59.8029 Info Message Template Auto Format enabled
+2023-09-26 22:24:00.0569 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:24:00.1057 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:24:55.6658 Info Message Template Auto Format enabled
+2023-09-26 22:24:55.8312 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:24:55.8765 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:38:32.4535 Info Message Template Auto Format enabled
+2023-09-26 22:38:32.5241 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:38:32.5459 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:38:59.0256 Info Message Template Auto Format enabled
+2023-09-26 22:38:59.1227 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:38:59.1601 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:40:04.1333 Info Message Template Auto Format enabled
+2023-09-26 22:40:04.2179 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:40:04.2498 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:42:32.4670 Info Message Template Auto Format enabled
+2023-09-26 22:42:32.6350 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:42:32.6754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:45:38.4532 Info Message Template Auto Format enabled
+2023-09-26 22:45:38.6502 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:45:38.7079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:46:58.8833 Info Message Template Auto Format enabled
+2023-09-26 22:46:58.9969 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:46:59.0382 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:47:30.6155 Info Message Template Auto Format enabled
+2023-09-26 22:47:30.6920 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:47:30.7180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:52:37.8646 Info Message Template Auto Format enabled
+2023-09-26 22:52:37.9593 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:52:37.9827 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:54:04.1435 Info Message Template Auto Format enabled
+2023-09-26 22:54:04.2379 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:54:04.2781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:55:28.8458 Info Message Template Auto Format enabled
+2023-09-26 22:55:28.9140 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:55:28.9358 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:55:40.1524 Info Message Template Auto Format enabled
+2023-09-26 22:55:40.2215 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:55:40.2474 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-26 22:57:45.7528 Info Message Template Auto Format enabled
+2023-09-26 22:57:45.8441 Info Adding target FileTarget(Name=logfile)
+2023-09-26 22:57:45.8728 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:32:56.0075 Info Message Template Auto Format enabled
+2023-09-27 20:32:56.1107 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:32:56.1354 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:33:29.1084 Info Message Template Auto Format enabled
+2023-09-27 20:33:29.1770 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:33:29.2042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:36:09.8067 Info Message Template Auto Format enabled
+2023-09-27 20:36:09.9309 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:36:09.9557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:38:51.0727 Info Message Template Auto Format enabled
+2023-09-27 20:38:51.1633 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:38:51.2014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:39:13.8952 Info Message Template Auto Format enabled
+2023-09-27 20:39:13.9918 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:39:14.0218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:43:26.8898 Info Message Template Auto Format enabled
+2023-09-27 20:43:27.0561 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:43:27.0955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:48:43.6682 Info Message Template Auto Format enabled
+2023-09-27 20:48:43.7584 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:48:43.7999 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 20:50:39.4044 Info Message Template Auto Format enabled
+2023-09-27 20:50:39.5650 Info Adding target FileTarget(Name=logfile)
+2023-09-27 20:50:39.6133 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 21:14:20.0354 Info Message Template Auto Format enabled
+2023-09-27 21:14:20.1580 Info Adding target FileTarget(Name=logfile)
+2023-09-27 21:14:20.1987 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 21:16:38.7594 Info Message Template Auto Format enabled
+2023-09-27 21:16:38.9029 Info Adding target FileTarget(Name=logfile)
+2023-09-27 21:16:38.9316 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 21:20:09.1669 Info Message Template Auto Format enabled
+2023-09-27 21:20:09.2707 Info Adding target FileTarget(Name=logfile)
+2023-09-27 21:20:09.3191 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 21:21:11.8364 Info Message Template Auto Format enabled
+2023-09-27 21:21:11.9724 Info Adding target FileTarget(Name=logfile)
+2023-09-27 21:21:12.0144 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-27 22:45:09.4787 Info Message Template Auto Format enabled
+2023-09-27 22:45:09.6629 Info Adding target FileTarget(Name=logfile)
+2023-09-27 22:45:09.7139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 18:47:58.6939 Info Message Template Auto Format enabled
+2023-09-28 18:47:58.8434 Info Adding target FileTarget(Name=logfile)
+2023-09-28 18:47:58.8757 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:08:37.1108 Info Message Template Auto Format enabled
+2023-09-28 19:08:37.2584 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:08:37.2943 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:09:38.6830 Info Message Template Auto Format enabled
+2023-09-28 19:09:38.9391 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:09:39.0097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:10:47.9519 Info Message Template Auto Format enabled
+2023-09-28 19:10:48.0493 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:10:48.0802 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:20:32.0681 Info Message Template Auto Format enabled
+2023-09-28 19:20:32.2673 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:20:32.3096 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:23:59.6460 Info Message Template Auto Format enabled
+2023-09-28 19:23:59.8139 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:23:59.8545 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:25:43.0103 Info Message Template Auto Format enabled
+2023-09-28 19:25:43.1517 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:25:43.1953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:31:31.9868 Info Message Template Auto Format enabled
+2023-09-28 19:31:32.1257 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:31:32.1549 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:32:38.8094 Info Message Template Auto Format enabled
+2023-09-28 19:32:38.9201 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:32:38.9530 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:33:45.3904 Info Message Template Auto Format enabled
+2023-09-28 19:33:45.4992 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:33:45.5412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:38:23.0444 Info Message Template Auto Format enabled
+2023-09-28 19:38:23.1944 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:38:23.2329 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:43:25.0030 Info Message Template Auto Format enabled
+2023-09-28 19:43:25.1139 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:43:25.1558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 19:43:34.7858 Info Message Template Auto Format enabled
+2023-09-28 19:43:34.8910 Info Adding target FileTarget(Name=logfile)
+2023-09-28 19:43:34.9202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:40:44.1168 Info Message Template Auto Format enabled
+2023-09-28 20:40:44.2012 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:40:44.2317 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:44:06.8873 Info Message Template Auto Format enabled
+2023-09-28 20:44:07.0225 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:44:07.0534 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:45:33.6342 Info Message Template Auto Format enabled
+2023-09-28 20:45:33.7635 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:45:33.8188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:48:44.4729 Info Message Template Auto Format enabled
+2023-09-28 20:48:44.6803 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:48:44.7058 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:50:34.1190 Info Message Template Auto Format enabled
+2023-09-28 20:50:34.2399 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:50:34.2908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:51:53.7285 Info Message Template Auto Format enabled
+2023-09-28 20:51:53.8239 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:51:53.8502 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:54:36.4653 Info Message Template Auto Format enabled
+2023-09-28 20:54:36.5972 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:54:36.6284 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-28 20:56:00.3383 Info Message Template Auto Format enabled
+2023-09-28 20:56:00.5185 Info Adding target FileTarget(Name=logfile)
+2023-09-28 20:56:00.5558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 12:27:25.0515 Info Message Template Auto Format enabled
+2023-09-30 12:27:25.1470 Info Adding target FileTarget(Name=logfile)
+2023-09-30 12:27:25.1712 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:43:03.0577 Info Message Template Auto Format enabled
+2023-09-30 13:43:03.2257 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:43:03.2503 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:44:17.2872 Info Message Template Auto Format enabled
+2023-09-30 13:44:17.4380 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:44:17.4709 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:44:46.6806 Info Message Template Auto Format enabled
+2023-09-30 13:44:46.8841 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:44:46.9238 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:45:15.6167 Info Message Template Auto Format enabled
+2023-09-30 13:45:15.7298 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:45:15.7674 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:45:46.5811 Info Message Template Auto Format enabled
+2023-09-30 13:45:46.6729 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:45:46.7027 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:47:32.6910 Info Message Template Auto Format enabled
+2023-09-30 13:47:32.8572 Info Adding target FileTarget(Name=logfile)
+2023-09-30 13:47:32.8902 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 13:48:13.2303 Info AppDomain Shutting down. LogFactory closing...
+2023-09-30 13:48:13.2515 Info LogFactory has been closed.
+2023-09-30 18:14:04.2435 Info Message Template Auto Format enabled
+2023-09-30 18:14:04.3450 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:14:04.3803 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:21:58.4326 Info Message Template Auto Format enabled
+2023-09-30 18:21:58.5255 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:21:58.5529 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:22:29.8498 Info Message Template Auto Format enabled
+2023-09-30 18:22:29.9367 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:22:29.9657 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:30:31.6328 Info Message Template Auto Format enabled
+2023-09-30 18:30:31.7200 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:30:31.7531 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:30:51.1261 Info Message Template Auto Format enabled
+2023-09-30 18:30:51.1973 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:30:51.2245 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:34:54.3543 Info Message Template Auto Format enabled
+2023-09-30 18:34:54.4449 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:34:54.4687 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:40:24.3847 Info Message Template Auto Format enabled
+2023-09-30 18:40:24.5061 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:40:24.5548 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:44:53.9428 Info Message Template Auto Format enabled
+2023-09-30 18:44:54.0199 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:44:54.0448 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:47:13.9591 Info Message Template Auto Format enabled
+2023-09-30 18:47:14.0322 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:47:14.0560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:47:57.9307 Info Message Template Auto Format enabled
+2023-09-30 18:47:58.0059 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:47:58.0302 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-09-30 18:48:56.2637 Info Message Template Auto Format enabled
+2023-09-30 18:48:56.3539 Info Adding target FileTarget(Name=logfile)
+2023-09-30 18:48:56.3787 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:31:59.5165 Info Message Template Auto Format enabled
+2023-10-01 12:31:59.6359 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:31:59.6633 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:32:17.0280 Info Message Template Auto Format enabled
+2023-10-01 12:32:17.1788 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:32:17.2280 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:54:39.5557 Info Message Template Auto Format enabled
+2023-10-01 12:54:39.7290 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:54:39.7810 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:55:06.5066 Info Message Template Auto Format enabled
+2023-10-01 12:55:06.8283 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:55:06.8863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:56:19.2454 Info Message Template Auto Format enabled
+2023-10-01 12:56:19.4838 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:56:19.5509 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:57:23.0773 Info Message Template Auto Format enabled
+2023-10-01 12:57:23.2630 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:57:23.3338 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 12:59:22.2476 Info Message Template Auto Format enabled
+2023-10-01 12:59:22.4331 Info Adding target FileTarget(Name=logfile)
+2023-10-01 12:59:22.4909 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:01:34.4473 Info Message Template Auto Format enabled
+2023-10-01 13:01:34.5769 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:01:34.6282 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:02:44.5183 Info Message Template Auto Format enabled
+2023-10-01 13:02:44.6525 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:02:44.6902 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:05:28.8836 Info Message Template Auto Format enabled
+2023-10-01 13:05:29.1168 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:05:29.1638 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:15:54.6575 Info Message Template Auto Format enabled
+2023-10-01 13:15:54.8119 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:15:54.8913 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:19:59.9517 Info Message Template Auto Format enabled
+2023-10-01 13:20:00.0838 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:20:00.1594 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 13:20:15.1148 Info Message Template Auto Format enabled
+2023-10-01 13:20:15.2526 Info Adding target FileTarget(Name=logfile)
+2023-10-01 13:20:15.2914 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 21:52:56.3904 Info Message Template Auto Format enabled
+2023-10-01 21:52:56.5118 Info Adding target FileTarget(Name=logfile)
+2023-10-01 21:52:56.5413 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 21:55:23.8194 Info Message Template Auto Format enabled
+2023-10-01 21:55:23.9546 Info Adding target FileTarget(Name=logfile)
+2023-10-01 21:55:23.9922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 21:56:50.2449 Info Message Template Auto Format enabled
+2023-10-01 21:56:50.5078 Info Adding target FileTarget(Name=logfile)
+2023-10-01 21:56:50.5614 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:02:22.7431 Info Message Template Auto Format enabled
+2023-10-01 22:02:22.9316 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:02:22.9768 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:02:35.0851 Info Message Template Auto Format enabled
+2023-10-01 22:02:35.3251 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:02:35.3988 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:02:47.2984 Info Message Template Auto Format enabled
+2023-10-01 22:02:47.5173 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:02:47.5850 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:09:22.9304 Info Message Template Auto Format enabled
+2023-10-01 22:09:23.1209 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:09:23.1838 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:11:48.5812 Info Message Template Auto Format enabled
+2023-10-01 22:11:48.7213 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:11:48.7773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:12:07.1384 Info Message Template Auto Format enabled
+2023-10-01 22:12:07.2809 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:12:07.3205 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:14:17.7876 Info Message Template Auto Format enabled
+2023-10-01 22:14:17.9747 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:14:18.0155 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:14:46.3001 Info Message Template Auto Format enabled
+2023-10-01 22:14:46.4884 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:14:46.5851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:16:19.8609 Info Message Template Auto Format enabled
+2023-10-01 22:16:19.9928 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:16:20.0264 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:16:47.4550 Info Message Template Auto Format enabled
+2023-10-01 22:16:47.5459 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:16:47.5898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:17:14.0231 Info Message Template Auto Format enabled
+2023-10-01 22:17:14.1602 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:17:14.2050 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:19:34.3256 Info Message Template Auto Format enabled
+2023-10-01 22:19:34.4095 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:19:34.4510 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:20:30.6471 Info Message Template Auto Format enabled
+2023-10-01 22:20:30.7523 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:20:30.7956 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:21:03.8842 Info Message Template Auto Format enabled
+2023-10-01 22:21:04.0045 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:21:04.0535 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:21:15.9005 Info Message Template Auto Format enabled
+2023-10-01 22:21:15.9883 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:21:16.0281 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:21:55.6156 Info Message Template Auto Format enabled
+2023-10-01 22:21:55.7223 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:21:55.7460 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:23:25.8754 Info Message Template Auto Format enabled
+2023-10-01 22:23:25.9683 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:23:26.0031 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:25:34.0822 Info Message Template Auto Format enabled
+2023-10-01 22:25:34.2050 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:25:34.2317 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:26:27.1871 Info Message Template Auto Format enabled
+2023-10-01 22:26:27.2660 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:26:27.2923 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:28:30.0396 Info Message Template Auto Format enabled
+2023-10-01 22:28:30.1472 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:28:30.1898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:29:48.0652 Info Message Template Auto Format enabled
+2023-10-01 22:29:48.1327 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:29:48.1546 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:30:31.5568 Info Message Template Auto Format enabled
+2023-10-01 22:30:31.6248 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:30:31.6500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:34:16.3869 Info Message Template Auto Format enabled
+2023-10-01 22:34:16.4771 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:34:16.5023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:37:03.5624 Info Message Template Auto Format enabled
+2023-10-01 22:37:03.6384 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:37:03.6606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:38:45.0917 Info Message Template Auto Format enabled
+2023-10-01 22:38:45.1732 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:38:45.1952 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:40:11.9274 Info Message Template Auto Format enabled
+2023-10-01 22:40:12.0219 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:40:12.0510 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:42:51.8357 Info Message Template Auto Format enabled
+2023-10-01 22:42:51.9136 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:42:51.9372 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:44:33.6581 Info Message Template Auto Format enabled
+2023-10-01 22:44:33.7478 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:44:33.7714 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-01 22:45:21.7383 Info Message Template Auto Format enabled
+2023-10-01 22:45:21.8101 Info Adding target FileTarget(Name=logfile)
+2023-10-01 22:45:21.8353 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:40:30.3971 Info Message Template Auto Format enabled
+2023-10-03 20:40:30.5042 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:40:30.5302 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:42:24.4490 Info Message Template Auto Format enabled
+2023-10-03 20:42:24.5739 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:42:24.6133 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:46:13.2338 Info Message Template Auto Format enabled
+2023-10-03 20:46:13.3269 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:46:13.3595 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:49:15.1390 Info Message Template Auto Format enabled
+2023-10-03 20:49:15.2869 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:49:15.3215 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:53:20.8117 Info Message Template Auto Format enabled
+2023-10-03 20:53:20.9268 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:53:20.9608 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:54:40.1362 Info Message Template Auto Format enabled
+2023-10-03 20:54:40.2459 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:54:40.2835 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 20:55:44.6209 Info Message Template Auto Format enabled
+2023-10-03 20:55:44.7016 Info Adding target FileTarget(Name=logfile)
+2023-10-03 20:55:44.7239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:14:16.7058 Info Message Template Auto Format enabled
+2023-10-03 21:14:16.9305 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:14:16.9617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:15:09.6162 Info Message Template Auto Format enabled
+2023-10-03 21:15:09.9375 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:15:09.9728 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:16:54.7564 Info Message Template Auto Format enabled
+2023-10-03 21:16:54.8979 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:16:54.9295 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:20:38.7081 Info Message Template Auto Format enabled
+2023-10-03 21:20:38.8287 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:20:38.8581 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:26:28.2446 Info Message Template Auto Format enabled
+2023-10-03 21:26:28.3967 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:26:28.4406 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-03 21:27:44.1712 Info Message Template Auto Format enabled
+2023-10-03 21:27:44.2653 Info Adding target FileTarget(Name=logfile)
+2023-10-03 21:27:44.2957 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 21:58:57.1915 Info Message Template Auto Format enabled
+2023-10-04 21:58:57.3572 Info Adding target FileTarget(Name=logfile)
+2023-10-04 21:58:57.3974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 22:08:08.2168 Info Message Template Auto Format enabled
+2023-10-04 22:08:08.4488 Info Adding target FileTarget(Name=logfile)
+2023-10-04 22:08:08.4951 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 22:09:55.2662 Info Message Template Auto Format enabled
+2023-10-04 22:09:55.4688 Info Adding target FileTarget(Name=logfile)
+2023-10-04 22:09:55.5248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 22:12:43.4690 Info Message Template Auto Format enabled
+2023-10-04 22:12:43.6082 Info Adding target FileTarget(Name=logfile)
+2023-10-04 22:12:43.6684 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 22:13:16.6758 Info Message Template Auto Format enabled
+2023-10-04 22:13:16.8082 Info Adding target FileTarget(Name=logfile)
+2023-10-04 22:13:16.8611 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\MagazaFiyat\StudentApi\nlog.config
+2023-10-04 22:23:54.0086 Info Message Template Auto Format enabled
+2023-10-04 22:23:54.1155 Info Adding target FileTarget(Name=logfile)
+2023-10-04 22:23:54.1454 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\baris_sqmhz7l\OneDrive\Masaüstü\Projeler\StudentApiProje\StudentApi\nlog.config
